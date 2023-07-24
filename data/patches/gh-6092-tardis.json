@@ -1,0 +1,87 @@
+{
+	"id": 322,
+	"name": "Tardis",
+	"description": "The TARDIS (Time And Relative Dimension in Space) is an iconic element of the 1963 British television show Doctor Who, and is the personal vessel of the main protagonist, the Doctor. It is bigger on the inside than the outside, and capable of travelling (almost) anywhere in time and space. The TARDIS is disguised as a police box, an antiquated telephone booth used by police.\n\nWe also have the 4th doctor's scarf,\na 60 for the 60th anniversary year of the tv show, python is our ally along with the purple hearts which we made 2 of because then it's a reference to doctor who since time lords have 2 hearts, on the top right we have the 11th doctor's sonic screwdriver, we also allied with earthbound so we have a dalek there\nmore of our allies are the irish flag on the right , the ecuador flag below us, also the pokemon below us is our ally, the dogs to our left are also allies",
+	"links": {
+		"website": [
+			"https://en.wikipedia.org/wiki/TARDIS"
+		],
+		"subreddit": [
+			"doctorwho"
+		]
+	},
+	"path": {
+		"49-205": [
+			[
+				267,
+				-158
+			],
+			[
+				271,
+				-155
+			],
+			[
+				272,
+				-154
+			],
+			[
+				272,
+				-153
+			],
+			[
+				272,
+				-144
+			],
+			[
+				272,
+				-143
+			],
+			[
+				272,
+				-142
+			],
+			[
+				262,
+				-142
+			],
+			[
+				262,
+				-155
+			],
+			[
+				260,
+				-161
+			],
+			[
+				276,
+				-161
+			],
+			[
+				276,
+				-142
+			],
+			[
+				272,
+				-142
+			],
+			[
+				260,
+				-142
+			],
+			[
+				260,
+				-161
+			],
+			[
+				261,
+				-161
+			]
+		]
+	},
+	"center": {
+		"49-205": [
+			273,
+			-158
+		]
+	}
+}
