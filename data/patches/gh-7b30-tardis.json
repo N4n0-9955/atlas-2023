@@ -1,0 +1,83 @@
+{
+	"id": 675,
+	"name": "TARDIS",
+	"description": "The TARDIS (Time And Relative Dimension in Space) is an iconic element of the 1963 British television show Doctor Who, and is the personal vessel of the main protagonist, the Doctor. It is bigger on the inside than the outside, and capable of travelling (almost) anywhere in time and space. The TARDIS is disguised as a police box, an antiquated telephone booth used by police.\nWe allied with sleeptoken above us and we have the 4th doctor's scarf pattern to the right of the tardis, also below us is a flag which we kind of had a peace agreement with to not attack each other, not too sure though because we communicated just with some people.\nat one point we had a heart between us and the french to show that the tv show has quite a big following in france but in the end it had disappeared since it changed so much from the design we planned so people kind of started to not defend it and just left it.",
+	"links": {
+		"website": [
+			"https://en.wikipedia.org/wiki/TARDIS"
+		],
+		"subreddit": [
+			"doctorwho",
+			"TARDISplace"
+		],
+		"discord": [
+			"ZWYTA6TEUs"
+		]
+	},
+	"path": {
+		"92-256": [
+			[
+				-519,
+				325
+			],
+			[
+				-522,
+				329
+			],
+			[
+				-521,
+				330
+			],
+			[
+				-521,
+				349
+			],
+			[
+				-522,
+				349
+			],
+			[
+				-522,
+				352
+			],
+			[
+				-504,
+				352
+			],
+			[
+				-504,
+				349
+			],
+			[
+				-505,
+				349
+			],
+			[
+				-505,
+				331
+			],
+			[
+				-504,
+				331
+			],
+			[
+				-504,
+				329
+			],
+			[
+				-506,
+				326
+			],
+			[
+				-507,
+				325
+			]
+		]
+	},
+	"center": {
+		"92-256": [
+			-513,
+			339
+		]
+	}
+}
